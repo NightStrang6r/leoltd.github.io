@@ -1,1 +1,0 @@
-console.log('%c       ', 'font-size: 300px; background: url(https://stickeroid.com/uploads/pic/skurd/thumb/stickeroid_5bf543d417095.png) no-repeat;');
